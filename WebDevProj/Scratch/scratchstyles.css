@@ -1,0 +1,29 @@
+body{background-color: antiquewhite;}
+.common{
+    font-family: cursive;
+}
+#Top{
+    color: brown;
+}
+.Header{
+    text-align: center;
+    background-color: aliceblue;
+}
+.Mainbody{
+    text-align: center;
+}
+.Footer{
+    text-align: end;
+    height: 100px;
+    background-color: crimson;
+    position: fixed;
+    bottom: 0px;
+    right: 35px;
+    line-height: 100px;
+}
+.Resume{
+    font-size: xx-large;
+    font-weight: 600;
+    background-color: white;
+    padding: 25px;
+}
